@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SP3YERAY</Machine>
+    <WindowsUser>JosueYeray</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>35521JosueYeray.NHubSample</PackageIdentityName>
+    <IntermediateOutputPath>C:\Trabajo\Necsia\Curso Microsoft Mondragon\NotificationsHub\NotificationsHubSample\NotificationsHub.Universal\NotificationsHub.Universal.Windows\obj\x86\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>BF132A86E23A1EB2A7FE617811378ABAF193DB62B6A7819F55B997DF74DCE903</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>35521JosueYeray.NHubSample_1.1.0.0_x86__w4rhrs1g9gwg2</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>35521JosueYeray.NHubSample_w4rhrs1g9gwg2!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>35521JosueYeray.NHubSample</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=EE48345D-D1A5-41F0-A3F9-A2B6822DDA1A</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Trabajo\Necsia\Curso Microsoft Mondragon\NotificationsHub\NotificationsHubSample\NotificationsHub.Universal\NotificationsHub.Universal.Windows\bin\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-13T17:47:33.437</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Trabajo\Necsia\Curso Microsoft Mondragon\NotificationsHub\NotificationsHubSample\NotificationsHub.Universal\NotificationsHub.Universal.Windows\bin\x86\Debug\NotificationsHub.Universal.Windows.exe">
+      <PackagePath>NotificationsHub.Universal.Windows.exe</PackagePath>
+      <Modified>2014-12-13T17:47:32.905</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Trabajo\Necsia\Curso Microsoft Mondragon\NotificationsHub\NotificationsHubSample\packages\MvvmCross.HotTuna.CrossCore.3.5.0-beta1\lib\win81\Cirrious.CrossCore.dll">
+      <PackagePath>Cirrious.CrossCore.dll</PackagePath>
+      <Modified>2014-12-13T16:00:32.061</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Trabajo\Necsia\Curso Microsoft Mondragon\NotificationsHub\NotificationsHubSample\packages\MvvmCross.HotTuna.CrossCore.3.5.0-beta1\lib\win81\Cirrious.CrossCore.WindowsCommon.dll">
+      <PackagePath>Cirrious.CrossCore.WindowsCommon.dll</PackagePath>
+      <Modified>2014-12-13T16:00:32.061</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Trabajo\Necsia\Curso Microsoft Mondragon\NotificationsHub\NotificationsHubSample\packages\MvvmCross.HotTuna.MvvmCrossLibraries.3.5.0-beta1\lib\win81\Cirrious.MvvmCross.dll">
+      <PackagePath>Cirrious.MvvmCross.dll</PackagePath>
+      <Modified>2014-12-13T16:00:32.218</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Trabajo\Necsia\Curso Microsoft Mondragon\NotificationsHub\NotificationsHubSample\packages\MvvmCross.HotTuna.CrossCore.3.5.0-beta1\lib\win81\Cirrious.MvvmCross.Localization.dll">
+      <PackagePath>Cirrious.MvvmCross.Localization.dll</PackagePath>
+      <Modified>2014-12-13T16:00:32.061</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Trabajo\Necsia\Curso Microsoft Mondragon\NotificationsHub\NotificationsHubSample\packages\MvvmCross.HotTuna.MvvmCrossLibraries.3.5.0-beta1\lib\win81\Cirrious.MvvmCross.WindowsCommon.dll">
+      <PackagePath>Cirrious.MvvmCross.WindowsCommon.dll</PackagePath>
+      <Modified>2014-12-13T16:00:32.233</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Trabajo\Necsia\Curso Microsoft Mondragon\NotificationsHub\NotificationsHubSample\packages\WindowsAzure.Messaging.Managed.0.1.7.9\lib\netcore45\Microsoft.WindowsAzure.Messaging.Managed.dll">
+      <PackagePath>Microsoft.WindowsAzure.Messaging.Managed.dll</PackagePath>
+      <Modified>2014-12-13T16:53:43.310</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Trabajo\Necsia\Curso Microsoft Mondragon\NotificationsHub\NotificationsHubSample\NotificationsHubSample.Core\bin\Debug\NotificationsHubSample.Core.dll">
+      <PackagePath>NotificationsHubSample.Core.dll</PackagePath>
+      <Modified>2014-12-13T17:38:05.161</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Trabajo\Necsia\Curso Microsoft Mondragon\NotificationsHub\NotificationsHubSample\NotificationsHub.Universal\NotificationsHub.Universal.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T09:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Trabajo\Necsia\Curso Microsoft Mondragon\NotificationsHub\NotificationsHubSample\NotificationsHub.Universal\NotificationsHub.Universal.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T09:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Trabajo\Necsia\Curso Microsoft Mondragon\NotificationsHub\NotificationsHubSample\NotificationsHub.Universal\NotificationsHub.Universal.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T09:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Trabajo\Necsia\Curso Microsoft Mondragon\NotificationsHub\NotificationsHubSample\NotificationsHub.Universal\NotificationsHub.Universal.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T09:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Trabajo\Necsia\Curso Microsoft Mondragon\NotificationsHub\NotificationsHubSample\NotificationsHub.Universal\NotificationsHub.Universal.Windows\ToDo-MvvmCross\_ Windows Store UI.txt">
+      <PackagePath>ToDo-MvvmCross\_ Windows Store UI.txt</PackagePath>
+      <Modified>2014-12-13T16:00:36.593</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Trabajo\Necsia\Curso Microsoft Mondragon\NotificationsHub\NotificationsHubSample\NotificationsHubSample.Core\ToDo-MvvmCross\_ Core.txt">
+      <PackagePath>NotificationsHubSample.Core\ToDo-MvvmCross\_ Core.txt</PackagePath>
+      <Modified>2014-12-13T16:00:34.421</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Trabajo\Necsia\Curso Microsoft Mondragon\NotificationsHub\NotificationsHubSample\NotificationsHub.Universal\NotificationsHub.Universal.Windows\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-12-13T17:47:32.695</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Trabajo\Necsia\Curso Microsoft Mondragon\NotificationsHub\NotificationsHubSample\NotificationsHub.Universal\NotificationsHub.Universal.Windows\bin\x86\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-12-13T17:47:32.698</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Trabajo\Necsia\Curso Microsoft Mondragon\NotificationsHub\NotificationsHubSample\NotificationsHub.Universal\NotificationsHub.Universal.Windows\bin\x86\Debug\Views\FirstView.xbf">
+      <PackagePath>Views\FirstView.xbf</PackagePath>
+      <Modified>2014-12-13T17:47:32.700</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Trabajo\Necsia\Curso Microsoft Mondragon\NotificationsHub\NotificationsHubSample\NotificationsHub.Universal\NotificationsHub.Universal.Windows\bin\x86\Debug\NotificationsHub.Universal.Windows.xr.xml">
+      <PackagePath>NotificationsHub.Universal.Windows.xr.xml</PackagePath>
+      <Modified>2014-12-13T17:47:32.629</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Trabajo\Necsia\Curso Microsoft Mondragon\NotificationsHub\NotificationsHubSample\NotificationsHub.Universal\NotificationsHub.Universal.Windows\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-12-13T17:47:33.214</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

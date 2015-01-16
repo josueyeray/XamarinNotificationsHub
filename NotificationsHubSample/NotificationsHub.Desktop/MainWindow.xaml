@@ -1,0 +1,12 @@
+﻿<Window x:Class="NotificationsHub.Desktop.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <StackPanel>
+            <Button Content="Send notification to Windows" Click="Send_Windows"/>
+            <Button Content="Send notification to Android" Click="Send_Android"/>
+            <Button Content="Send notification to iOS" Click="Send_iOS"/>
+        </StackPanel>
+    </Grid>
+</Window>
